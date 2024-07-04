@@ -1,0 +1,19 @@
+@font-face {
+	font-family:"pixy";
+	src: url('../fonts/PIXY/PIXY.ttf');
+	font-weight:normal;
+	font-size:16px;
+}
+@font-face {
+	font-family:"PressStart";
+	src: url('../fonts/Press Start 2P/PressStart2P-Regular.ttf');
+	font-weight:normal;
+	font-size:16px;
+}
+
+@font-face {
+	font-family:"PixSans";
+	src: url('../fonts/Pixelify_Sans/static/PixelifySans-Regular.ttf');
+	font-weight:400;
+	font-size:16px;
+}
